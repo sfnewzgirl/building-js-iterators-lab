@@ -2,6 +2,11 @@
 // Don't worry about initialValue at first. You can always add it in later.
 
 function myReduce(arr, callback) {
+  var newArray = [];
+  for (var i = 0, i < arr.length; i++) {
+
+    (arr[i], i, arr)
+  }
 
 //  CODE INSIDE HERE   //
 

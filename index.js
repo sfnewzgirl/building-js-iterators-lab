@@ -1,6 +1,6 @@
-var myEach = require('./starter-code/myEach');
-var myMap = require('./starter-code/myMap');
-var myReduce = require('./starter-code/myReduce');
+ var myEach = require('./starter-code/myEach');
+ // var myMap = require('./starter-code/myMap');
+ // var myReduce = require('./starter-code/myReduce');
 /* *********************************************************************
   You can edit this file.  It is set up to have use of your code in:
 
@@ -12,8 +12,15 @@ var myReduce = require('./starter-code/myReduce');
   To execute it from the command line, run: `node index.js`
 ***********************************************************************/
 
-var numArray = [0,1,10,100,1000];
-
+ var arr = [0,1,10,100,1000];
+//
+// function myEach (arr) {
+//   for (var i = 0; i < arr.length; i++) {
+//     console.log(arr[i]);
+//     }
+// };
+//
+ // myEach(arr);
 
 /* myEach */
 
@@ -21,6 +28,7 @@ var numArray = [0,1,10,100,1000];
 /*myEach(numArray, function print(element, index, arr) {
    console.log('inside myEach', element, index, arr);
  });*/
+
 
 
 
