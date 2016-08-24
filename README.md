@@ -2,6 +2,8 @@
  location: SF
 -->
 
+Reflection: This was a really challenging training. I was confused at first and ended up walking through myEach first with Matt (TA). I then walked through the documentation trying to mock up pseudo-code and cross checked myFind with the solution. That helped get the pieces in place. I was able to write the next two on my own and test with minimal tweaks (mostly syntax). myReduce was tricky and got confusing so I worked it out piece by piece with help.
+
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 # Building Iterator Methods
