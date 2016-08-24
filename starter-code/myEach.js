@@ -2,7 +2,7 @@
 
 function myEach (arr, callback) {
   for (var i = 0; i < arr.length; i++) {
-    callback(array[i], i, arr);
+    callback(arr[i], i, arr);
 //    console.log('inside myEach', element, index, arr)
     }
 }
